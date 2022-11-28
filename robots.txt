@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://4changeyourbusiness.it/sitemap.xml
+Sitemap: http://www.4changeyourbusiness.it/sitemap.xml
